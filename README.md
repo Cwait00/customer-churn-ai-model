@@ -15,3 +15,11 @@ This project uses a machine learning model to predict customer churn based on us
 
 ## Why This Matters
 Customer churn prediction helps businesses retain customers and increase revenue through data-driven decision making.
+
+## Results
+The model achieves an accuracy score when predicting whether a customer will churn or not.
+
+## Next Steps
+- Improve model accuracy with more features
+- Try different algorithms (Logistic Regression, XGBoost)
+- Deploy as a web app or API
